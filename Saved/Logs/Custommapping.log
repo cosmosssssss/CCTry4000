@@ -2500,3 +2500,437 @@ Script call stack:
 [2020.05.07-15.19.20:504][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
 [2020.05.07-15.19.21:004][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
 [2020.05.07-15.19.21:505][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.22:005][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.22:506][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.23:007][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.23:508][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.24:008][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.24:508][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.25:009][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.25:510][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.26:011][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.26:511][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.27:012][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.27:513][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.28:013][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.28:514][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.29:014][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.29:515][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.30:015][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.30:515][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.31:016][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.31:517][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.32:017][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.32:518][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.33:018][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.33:519][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.34:019][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.34:520][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.35:020][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.35:521][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.36:022][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.36:522][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.37:022][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.37:523][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.38:023][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.38:524][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.39:024][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.39:525][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.40:026][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.40:527][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.41:028][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.41:528][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.42:029][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.42:529][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.43:030][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.43:530][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.44:030][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.44:531][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.45:032][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.45:533][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.46:033][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.46:533][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.47:034][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.47:535][375]LogHttp: Display: Sleeping 0.5s to wait for 3 outstanding Http requests.
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6626DD27-41F3-F53E-483D-8EB021331EEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=5f55b93d4e0189a42e91b2879876061d%7Cf8f7302e05ed4eecaf128adbd261a0bd%7C3514e42f-2c64-4e84-9322-2ccba7ea66d1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: request failed, libcurl error: 28 (Timeout was reached)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c056b57f70 [can pipeline])
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 2 (  Trying 52.45.123.19...)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#21))
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 7 (SSL re-using session ID)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 9 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.05.07-15.19.48:035][375]LogHttp: Warning: 000001C0DA2E02C0: libcurl info message cache 11 (Closing connection 21)
+[2020.05.07-15.19.48:035][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.48:536][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.49:036][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.49:537][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.50:038][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.50:538][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.51:038][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.51:539][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.52:039][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.52:540][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.53:040][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.53:540][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.54:041][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.54:541][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.55:042][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.55:542][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.56:043][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.56:544][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.57:045][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.57:545][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.58:046][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.58:547][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.59:048][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.19.59:548][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.00:049][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.00:549][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.01:050][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.01:551][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.02:051][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.02:552][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.03:052][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.03:553][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.04:054][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.04:554][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.05:054][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.05:555][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.06:056][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.06:557][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.07:057][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.07:558][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.08:059][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.08:559][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.09:060][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.09:560][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.10:061][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.10:562][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.11:063][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.11:563][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.12:064][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.12:565][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.13:065][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.13:566][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.14:066][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.14:567][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.15:068][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.15:569][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.16:069][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.16:569][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.17:070][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.17:571][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.18:071][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.18:572][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.19:072][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.19:572][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.20:073][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.20:574][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.21:075][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.21:575][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.22:076][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.22:576][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.23:077][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.23:577][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.24:078][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.24:578][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.25:079][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.25:579][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.26:080][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.26:580][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.27:080][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.27:581][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.28:082][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.28:582][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.29:082][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.29:583][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.30:084][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.30:584][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.31:084][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.31:585][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.32:085][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.32:586][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.33:087][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.33:587][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.34:088][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.34:588][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.35:089][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.35:589][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.36:089][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.36:590][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.37:090][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.37:591][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.38:091][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.38:591][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.39:092][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.39:593][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.40:094][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.40:595][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.41:095][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.41:596][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.42:097][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.42:597][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.43:098][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.43:598][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.44:098][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.44:599][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.45:099][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.45:600][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.46:100][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.46:600][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.47:101][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.47:602][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.48:102][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.48:602][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.49:103][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.49:603][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.50:104][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.50:605][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.51:105][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.51:606][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.52:107][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.52:607][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.53:108][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.53:609][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.54:109][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.54:610][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.55:111][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.55:612][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.56:112][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.56:612][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.57:113][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.57:614][375]LogHttp: Display: Sleeping 0.5s to wait for 2 outstanding Http requests.
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6626DD27-41F3-F53E-483D-8EB021331EEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=5f55b93d4e0189a42e91b2879876061d%7Cf8f7302e05ed4eecaf128adbd261a0bd%7C3514e42f-2c64-4e84-9322-2ccba7ea66d1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: request failed, libcurl error: 0 (No error)
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c056b57f70 [can pipeline])
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.7.223.84) port 443 (#20))
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 4 (Closing connection 20)
+[2020.05.07-15.20.58:115][375]LogHttp: Warning: 000001C0DA0EDBC0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.07-15.20.58:115][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.20.58:616][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.20.59:116][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.20.59:616][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.00:117][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.00:618][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.01:118][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.01:618][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.02:119][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.02:619][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.03:120][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.03:620][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.04:121][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.04:622][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.05:123][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.05:624][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.06:124][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.06:625][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.07:126][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.07:626][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.08:127][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.08:627][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.09:128][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.09:629][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.10:129][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.10:630][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.11:131][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.11:632][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.12:132][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.12:633][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.13:134][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.13:635][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.14:135][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.14:636][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.15:137][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.15:638][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.16:139][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.16:639][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.17:140][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.17:641][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.18:141][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.18:642][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.19:142][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.19:643][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.20:144][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.20:644][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.21:145][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.21:645][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.22:145][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.22:646][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.23:146][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.23:647][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.24:148][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.24:648][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.25:148][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.25:649][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.26:149][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.26:650][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.27:151][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.27:651][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.28:152][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.28:653][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.29:154][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.29:655][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.30:156][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.30:656][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.31:157][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.31:657][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.32:158][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.32:659][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.33:159][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.33:660][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.34:160][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.34:661][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.35:162][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.35:662][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.36:163][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.36:664][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.37:164][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.37:665][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.38:165][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.38:666][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.39:166][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.39:667][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.40:168][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.40:669][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.41:170][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.41:670][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.42:171][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.42:672][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.43:172][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.43:673][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.44:173][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.44:674][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.45:175][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.45:675][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.46:176][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.46:677][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.47:178][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.47:678][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.48:179][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.48:680][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.49:183][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.49:684][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.50:185][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.50:685][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.51:186][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.51:687][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.52:187][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.52:687][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.53:189][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.53:689][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.54:190][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.54:690][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.55:191][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.55:692][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.56:192][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.56:693][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.57:193][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.57:694][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.58:194][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.58:695][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.59:195][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.21.59:696][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.00:196][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.00:697][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.01:198][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.01:698][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.02:199][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.02:699][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.03:200][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.03:701][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.04:202][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.04:702][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.05:202][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.05:703][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.06:204][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.06:705][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.07:206][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.07:706][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.08:207][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.08:707][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.09:207][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.09:708][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.10:208][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.10:709][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.11:210][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.11:711][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.12:211][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.12:712][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.13:212][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.13:713][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.14:214][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.14:714][375]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6626DD27-41F3-F53E-483D-8EB021331EEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=5f55b93d4e0189a42e91b2879876061d%7Cf8f7302e05ed4eecaf128adbd261a0bd%7C3514e42f-2c64-4e84-9322-2ccba7ea66d1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: request failed, libcurl error: 0 (No error)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c056b57f70 [can pipeline])
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 2 (  Trying 52.45.123.19...)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 3 (TCP_NODELAY set)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#22))
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 7 (SSL re-using session ID)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 9 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 14 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 15 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 17 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 18 (ALPN, server accepted to use http/1.1)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 19 (old SSL session ID is stale, removing)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 20 (Server certificate:)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 21 ( subject: CN=*.ol.epicgames.com)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 22 ( start date: Feb 12 00:00:00 2020 GMT)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 23 ( expire date: Mar 12 12:00:00 2021 GMT)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 25 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 27 (We are completely uploaded and fine)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 28 (Closing connection 22)
+[2020.05.07-15.22.15:215][375]LogHttp: Warning: 000001C0DA2E1940: libcurl info message cache 29 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.07-15.22.15:245][375]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.07-15.22.15:246][375]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.07-15.22.15:247][375]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.07-15.22.15:247][375]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.07-15.22.15:247][375]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.07-15.22.15:247][375]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.07-15.22.15:248][375]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.07-15.22.15:249][375]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.07-15.22.15:250][375]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.07-15.22.15:250][375]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.07-15.22.15:250][375]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.07-15.22.15:250][375]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.07-15.22.15:251][375]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.07-15.22.15:301][375]LogD3D11RHI: Shutdown
+[2020.05.07-15.22.15:301][375]LogD3D11RHI: CleanupD3DDevice
+[2020.05.07-15.22.15:311][375]LogExit: Exiting.
+[2020.05.07-15.22.15:323][375]Log file closed, 05/07/20 23:22:15
